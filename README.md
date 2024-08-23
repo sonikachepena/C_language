@@ -1,2 +1,2 @@
 # C_language
-In this for the 
+In this for the  given program i find the output 
